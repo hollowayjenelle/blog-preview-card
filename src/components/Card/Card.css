@@ -47,6 +47,10 @@
   line-height: 150%;
 }
 
+.blogTitle:hover {
+  color: #f4d04e;
+}
+
 .blogDesc {
   margin: 0;
   font-size: 16px;
