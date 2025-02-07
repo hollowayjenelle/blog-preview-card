@@ -49,6 +49,7 @@
 
 .blogTitle:hover {
   color: #f4d04e;
+  cursor: pointer;
 }
 
 .blogDesc {
